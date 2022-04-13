@@ -53,7 +53,7 @@
 ![image](https://user-images.githubusercontent.com/52664532/163271932-9143dd13-7a8f-4a0e-bac2-117a99224d30.png)
 
 * Area 차트를 stack 하지 않고 그래프를 표시하는 법\
-* &nbsp;&nbsp;&nbsp;-분석 > 마크누적 > 해제\
+&nbsp;&nbsp;&nbsp;-분석 > 마크누적 > 해제\
 ![image](https://user-images.githubusercontent.com/52664532/163272266-25c00393-60a2-4251-8461-0823ec81d07b.png)
 
 
