@@ -47,3 +47,15 @@
 
 #### AREA 차트
 
+* Trend를 보여줌, Line chart와 유사함. 차이점은 category 추가시, 각 항목을 stack 하느냐의 여부
+* 마크 > 영역 
+* 카테고리별 결과를 보고싶으면, 해당 필드를 "색상"에 Drag & Drop\
+![image](https://user-images.githubusercontent.com/52664532/163271932-9143dd13-7a8f-4a0e-bac2-117a99224d30.png)
+
+* Area 차트를 stack 하지 않고 그래프를 표시하는 법\
+* &nbsp;&nbsp;&nbsp;-분석 > 마크누적 > 해제\
+![image](https://user-images.githubusercontent.com/52664532/163272266-25c00393-60a2-4251-8461-0823ec81d07b.png)
+
+
+
+
