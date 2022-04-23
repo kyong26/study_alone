@@ -57,5 +57,25 @@
 ![image](https://user-images.githubusercontent.com/52664532/163272266-25c00393-60a2-4251-8461-0823ec81d07b.png)
 
 
+#### Git Push 하다가 아래 부분이 날아가서 ㅠㅠ 이후에 다시 정리하는걸로...
+
+#### 파이차트
+![image](https://user-images.githubusercontent.com/52664532/164949141-f80eb183-3ae7-407b-bbc0-48eb6a4fce4f.png)\
+![image](https://user-images.githubusercontent.com/52664532/164949153-3710c3a3-dda2-4978-b937-8bc68386c832.png)\
+![image](https://user-images.githubusercontent.com/52664532/164949158-c0c8e9c6-c014-4d23-943a-6b15cae462e7.png)\
+![image](https://user-images.githubusercontent.com/52664532/164949160-e6d675cc-43f0-4a89-9986-301e8b368109.png)
+
+#### 비율바차트
+![image](https://user-images.githubusercontent.com/52664532/164949167-37b3c2ad-0f68-4184-b631-469672b27e25.png)
+
+#### Scatter Plot
+![image](https://user-images.githubusercontent.com/52664532/164949173-c9419270-5de8-4ef3-af46-0354d2717b1b.png)\
+![image](https://user-images.githubusercontent.com/52664532/164949176-e2f1e6a1-79ad-4eb6-a76a-efc33dd531f4.png)\
+![image](https://user-images.githubusercontent.com/52664532/164949180-f0dcb32a-54c8-4664-b681-98b0d2269d1a.png)
+
+
+
+
+
 
 
