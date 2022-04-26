@@ -28,12 +28,12 @@ return: [5, 6, 3]
 ```python
 def solution(array, commands):
     answer = [] 
-    if type(commands[0]) == list:
+    if type(commands[0]) == list: #command가 2차원일때
         for i in range(len(commands)):
             x = array[commands[i][0]-1: commands[i][1]]
             x.sort()
             answer.append(x[commands[i][2]-1])
-    else:
+    else: #command가 1차원일때
         x = array[commands[0]-1: commands[1]]
         x.sort()
         answer.append(x[commands[2]-1])
