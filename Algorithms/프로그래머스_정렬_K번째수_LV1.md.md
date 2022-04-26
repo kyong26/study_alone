@@ -69,6 +69,8 @@ solution(array, commands)
     [5, 6, 3]
 
 
+![image](https://user-images.githubusercontent.com/52664532/165402481-08e4a812-c738-48dd-8854-3aebb325eb31.png)
+
 
 ### 참고
 한 줄짜리로 깔끔하게 짤 수도 있었다.
