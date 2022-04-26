@@ -59,18 +59,15 @@ for i in range(len(num_set)):
     if num_set[i]==2:
         answer.append(2)
     else:
-#         print("num:", num_set[i])
         div_set = [] 
         for j in range(3, num_set[i], 2):
             div_set.append(j)
         cnt = 0 
         for j in range(len(div_set)):
-#             print('div:',div_set[j])
             if num_set[i] % div_set[j] == 0 :
                 break
             else:
                 cnt+=1
-#                 print('cnt:',cnt)
         if cnt==len(div_set):
             answer.append(num_set[i])
             
@@ -80,12 +77,3 @@ print(len(answer))
     3
     
 
-
-```python
-
-```
-
-
-```python
-
-```
