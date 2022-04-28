@@ -92,3 +92,18 @@ def solution(n, lost, reserve):
             _lost.remove(b)
     return n - len(_lost)
 ```
+
+```python
+#속도가 가장 빠른 사람의 
+def solution(n, lost, reserve):
+
+    reserve = set(reserve)    # reserve 를 집합으로 바꾼다.
+
+    for size in [0, 1, -2]:   
+        lost = set(map(lambda x : x+size, lost))
+        reserve, lost = reserve - lost, lost - reserve                         
+	# for문 첫 번째는 lost = reserve를 제거, 
+ 	# 두 번째는 lost + 1 = reserve를 제거,
+ 	# 세 번째는 lost - 1 = reserve를 제거하는 구문
+    return n - len(lost)
+```
