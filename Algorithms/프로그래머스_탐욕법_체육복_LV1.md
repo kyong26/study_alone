@@ -29,27 +29,37 @@ n	lost	reserve	return\
 
 
 ```python
+n= 9
+lost = [5,6,8,1,2]
+reserve = [2,3,1,4,8,9] 
+
 def solution(n, lost, reserve):
     answer = 0
     
     #여벌 체육복이 있는 학생이 도난당한 경우
     for i in range(1, n+1):
         if i in lost and i in reserve:
-            lost.pop(i)
-            reserve.pop(i)
+            lost.remove(i)
+            reserve.remove(i)
             
     #체육복이 있는 사람
     answer += (n-len(lost))
             
-    #체육복 빌리기        
+    #체육복 빌리기  
+    lost.sort()
+    reserve.sort()
+    
     for a in lost: 
+        #1번일때: 2번에게만 빌릴 수 있음
         if a==1 and a+1 in reserve:
             reserve.remove(a+1)
             answer += 1 
+        #마지막 번호일때: 바로 앞 번호에게만 빌릴 수 있음
         elif a==n and a-1 in reserve:
             reserve.remove(a-1)
             answer += 1  
-        #요기순서가 키인거 같은데. 13,14. 17.18
+        #그 외: -1, +! 모두에게 빌릴 수 있음
+        #뒷번호를 위해, 최대한 앞 사람에게 빌림
         elif a-1 in reserve:
             reserve.remove(a-1)
             answer += 1 
@@ -58,4 +68,27 @@ def solution(n, lost, reserve):
             answer += 1  
             
     return answer
+
+solution(n, lost, reserve)
+```
+
+    8
+
+![image](https://user-images.githubusercontent.com/52664532/165772952-4d6d056e-be3c-439f-be49-7c0b1dbda99e.png)
+
+
+```python
+#참고
+
+def solution(n, lost, reserve):
+    _reserve = [r for r in reserve if r not in lost]
+    _lost = [l for l in lost if l not in reserve]
+    for r in _reserve:
+        f = r - 1
+        b = r + 1
+        if f in _lost:
+            _lost.remove(f)
+        elif b in _lost:
+            _lost.remove(b)
+    return n - len(_lost)
 ```
