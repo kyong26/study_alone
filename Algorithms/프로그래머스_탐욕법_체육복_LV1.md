@@ -94,7 +94,7 @@ def solution(n, lost, reserve):
 ```
 
 ```python
-#속도가 가장 빠른 사람의 
+#가장 빠른 풀이
 def solution(n, lost, reserve):
 
     reserve = set(reserve)    # reserve 를 집합으로 바꾼다.
