@@ -38,10 +38,8 @@ plt.show()
 ```
 
 
+![output_3_0](https://user-images.githubusercontent.com/52664532/166137121-0d4b1fc3-cc4f-4918-b47e-c6e068bb8f06.png)
     
-![png](output_3_0.png)
-    
-
 
 
 ```python
@@ -64,9 +62,8 @@ plt.ylabel('weight')
 plt.show()
 ```
 
+![output_5_0](https://user-images.githubusercontent.com/52664532/166137131-898d89be-f967-4381-9a8f-4d70c0d5709d.png)
 
-    
-![png](output_5_0.png)
     
 
 
