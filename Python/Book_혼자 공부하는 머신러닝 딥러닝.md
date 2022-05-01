@@ -82,8 +82,8 @@ plt.show()
 ```
 
 
-    
-![png](output_3_0.png)
+![output_3_0](https://user-images.githubusercontent.com/52664532/166165990-f43487f2-7789-4d42-bb72-32c971012c41.png)
+
     
 
 
@@ -115,6 +115,3 @@ test_target
 
 
 
-```python
-
-```
