@@ -108,8 +108,7 @@ plt.show()
 ```
 
 
-    
-![png](output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/52664532/166327389-78e7c866-4609-4ea1-8758-1147bed0ddac.png)
     
 
 
@@ -130,10 +129,8 @@ plt.show()
 #가까운 샘플 5개중 4개가 빙어->빙어로 분류됨
 ```
 
+![output_9_0](https://user-images.githubusercontent.com/52664532/166327463-3f8c92ff-1fd7-4818-a5d8-3541cb95d68f.png)
 
-    
-![png](output_9_0.png)
-    
 
 
 
@@ -174,7 +171,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![output_11_0](https://user-images.githubusercontent.com/52664532/166327511-3e4f6cb1-7569-418e-aaf3-08dc8e3fcc5c.png)
     
 
 
@@ -213,11 +210,8 @@ plt.ylabel('weight')
 plt.show()
 ```
 
-
+![output_14_0](https://user-images.githubusercontent.com/52664532/166327600-bdcbb25b-d5f1-4a73-b949-eed3f6af2ae6.png)
     
-![png](output_14_0.png)
-    
-
 
 
 ```python
@@ -249,8 +243,4 @@ plt.ylabel('weight')
 plt.show()
 ```
 
-
-    
-![png](output_16_0.png)
-    
-
+![output_16_0](https://user-images.githubusercontent.com/52664532/166327642-042e4b6f-3eed-484a-976d-5fec44b9af75.png)
