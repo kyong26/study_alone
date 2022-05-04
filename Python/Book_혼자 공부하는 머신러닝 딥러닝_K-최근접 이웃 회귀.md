@@ -38,10 +38,8 @@ plt.ylabel('weight')
 plt.show()
 ```
 
+![output_2_0](https://user-images.githubusercontent.com/52664532/166680714-3ae2244e-0d7d-4ef7-b1ec-79d24812631b.png)
 
-    
-![png](output_2_0.png)
-    
 
 
 
