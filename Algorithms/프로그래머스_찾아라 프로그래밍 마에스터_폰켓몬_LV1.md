@@ -79,6 +79,7 @@ solution([3,3,3,2,2,2])
 
     2
 
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/52664532/167134674-3a41c6f2-f5d7-4d4e-9d5a-79d8712d5289.png">
 
 
 
