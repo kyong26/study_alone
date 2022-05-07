@@ -44,6 +44,9 @@ def solution(participant, completion):
 ```
 
 
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/52664532/167256796-c1ac203f-1163-4e40-a9d8-d1921e515da5.png">
+
+
 ```python
 # 정확성(50/50), 효율성(50/50)
 def solution(participant, completion):
