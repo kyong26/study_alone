@@ -136,3 +136,23 @@ def solution(clothes):
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/52664532/167317043-b4233816-ae1d-4291-af1a-41897ae25e0c.png">
 
+
+
+```python
+# 다른 사람 풀이 참고 1
+def solution(clothes):
+    from collections import Counter
+    from functools import reduce
+    cnt = Counter([kind for name, kind in clothes])
+    answer = reduce(lambda x, y: x*(y+1), cnt.values(), 1) - 1
+    return answer
+```
+
+```python
+# 다른 사람 풀이 참고 2
+import collections
+from functools import reduce
+
+def solution(c):
+    return reduce(lambda x,y:x*y,[a+1 for a in collections.Counter([x[1] for x in c]).values()])-1
+```
