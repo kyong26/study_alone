@@ -133,3 +133,6 @@ def solution(clothes):
                     
     return answer
 ```
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/52664532/167317043-b4233816-ae1d-4291-af1a-41897ae25e0c.png">
+
