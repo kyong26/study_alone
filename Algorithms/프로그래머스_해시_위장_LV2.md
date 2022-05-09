@@ -156,3 +156,18 @@ from functools import reduce
 def solution(c):
     return reduce(lambda x,y:x*y,[a+1 for a in collections.Counter([x[1] for x in c]).values()])-1
 ```
+
+
+```python
+
+# reduce 사용예제
+
+from functools import reduce
+
+result = reduce(lambda x, y: x+y, [1, 2, 3, 4, 5], 100)
+print(result) #15
+
+result = reduce(lambda x, y: x+y, [1, 2, 3, 4, 5], 100)
+print(result) #115
+
+```
