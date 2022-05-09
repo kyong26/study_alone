@@ -85,6 +85,7 @@ solution(genres, plays)
     [0, 2, 1]
 
 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/52664532/167480537-3fdb849e-a857-4977-bdf8-4639f40d4a85.png">
 
 
 ```python
