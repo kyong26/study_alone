@@ -9,15 +9,7 @@ from urllib import parse
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-'''
-정부 API
-- 계정: kyong26, cermerus12!
-- End Poing: http://apis.data.go.kr/B090041/openapi/service/SpcdeInfoService
-- 일반인증키(Encoding): GVXMedFOG13uoOLsx40U%2FsQ3qbmk1xCt918OWfwbGRRWMgXaKb5HCNvQPFgrOzdRjY%2BwkupnMI%2BTapfIJuilWQ%3D%3D
-- 일반인증키(Decoding): GVXMedFOG13uoOLsx40U/sQ3qbmk1xCt918OWfwbGRRWMgXaKb5HCNvQPFgrOzdRjY+wkupnMI+TapfIJuilWQ==
-'''
-
-api_key_utf8 = "GVXMedFOG13uoOLsx40U%2FsQ3qbmk1xCt918OWfwbGRRWMgXaKb5HCNvQPFgrOzdRjY%2BwkupnMI%2BTapfIJuilWQ%3D%3D"
+api_key_utf8 = "API KEY"
 ```
 
 ### API Conn Test
