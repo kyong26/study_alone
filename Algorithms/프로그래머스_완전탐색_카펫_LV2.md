@@ -43,6 +43,7 @@ def solution(brown, yellow):
     return answer
 ```
 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/52664532/167489285-2c355e1d-008a-4a59-a0ff-a12478dc356a.png">
 
 ```python
 brown, yellow = 10, 2
