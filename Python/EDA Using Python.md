@@ -276,8 +276,8 @@ sns.heatmap(correlation, xticklabels=correlation.columns, yticklabels=correlatio
 
 
 
-    
-![png](output_17_1.png)
+![output_17_1](https://user-images.githubusercontent.com/52664532/168409034-3163ec85-3081-4025-ae82-6d84ef73b809.png)
+
     
 
 
@@ -294,9 +294,8 @@ sns.pairplot(df) #산점도와 히스토그램으로 시각화
 
 
 
-    
-![png](output_18_1.png)
-    
+![output_18_1](https://user-images.githubusercontent.com/52664532/168409058-21712195-bdc6-49ba-b2d4-a24ee754d07c.png)
+
 
 
 
@@ -311,10 +310,8 @@ sns.relplot(x='y', y='z', hue='x', data=df, style='l')
 
 
 
+![output_19_1](https://user-images.githubusercontent.com/52664532/168409068-5bdc2e80-c23a-48c9-a5d9-d696324ddb5a.png)
 
-    
-![png](output_19_1.png)
-    
 
 
 
@@ -332,11 +329,8 @@ sns.distplot(df['y'])
     <AxesSubplot:xlabel='y', ylabel='Density'>
 
 
+![output_20_2](https://user-images.githubusercontent.com/52664532/168409075-b6473169-04cc-4465-969b-b99a0c1deb02.png)
 
-
-    
-![png](output_20_2.png)
-    
 
 
 
@@ -352,9 +346,7 @@ sns.displot(df['y'])
 
 
 
-    
-![png](output_21_1.png)
-    
+![output_21_1](https://user-images.githubusercontent.com/52664532/168409076-f0faac41-e83c-4366-8bbc-7fb03e3527f5.png)
 
 
 
@@ -368,10 +360,8 @@ sns.histplot(df['y'])
     <AxesSubplot:xlabel='y', ylabel='Count'>
 
 
+![output_22_1](https://user-images.githubusercontent.com/52664532/168409082-d44d63f3-785a-4c4a-bffb-5b23fff9295e.png)
 
-
-    
-![png](output_22_1.png)
     
 
 
@@ -387,8 +377,6 @@ sns.catplot(x='y', kind= 'box', data= df)
 
 
 
+![output_23_1](https://user-images.githubusercontent.com/52664532/168409087-eb6664fe-d899-4ccf-9044-2275d12f2c53.png)
 
-    
-![png](output_23_1.png)
-    
 
