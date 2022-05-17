@@ -300,7 +300,8 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![output_16_0](https://user-images.githubusercontent.com/52664532/168908653-fbe0a1b9-c5b0-47b6-a8a0-42b53d08d365.png)
+
     
 
 
@@ -313,7 +314,8 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![output_17_0](https://user-images.githubusercontent.com/52664532/168908763-4341774d-3bce-4514-908e-cf27e5b14efe.png)
+
     
 
 
@@ -326,7 +328,8 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![output_18_0](https://user-images.githubusercontent.com/52664532/168908792-4b833d5e-99e1-4ac3-878f-62be5e6a9f62.png)
+
     
 
 
@@ -338,9 +341,8 @@ plt.show()
 ```
 
 
-    
-![png](output_19_0.png)
-    
+![output_19_0](https://user-images.githubusercontent.com/52664532/168908831-d43bf55f-b6f3-410c-96c3-3c88a2e5fa74.png)
+
 
 
 
@@ -353,8 +355,8 @@ text.dispersion_plot(["alice", "rabbit", "queen", "turtle", "mouse","gryphon", "
 
 
     
-![png](output_20_0.png)
-    
+![output_20_0](https://user-images.githubusercontent.com/52664532/168908854-c195ecc8-bd55-4f02-9237-5dffc901f239.png)
+
 
 
 
@@ -477,7 +479,6 @@ plt.show()
 ```
 
 
-    
-![png](output_28_0.png)
-    
+![output_28_0](https://user-images.githubusercontent.com/52664532/168908881-e9726063-2219-49b6-8c6e-c929409e2ac1.png)
+
 
