@@ -1,3 +1,10 @@
+#### 참고:
+파이썬 텍스트 마이닝 완벽 가이드
+https://datascienceschool.net/03%20machine%20learning/03.01.01%20NLTK%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%20%ED%8C%A8%ED%82%A4%EC%A7%80.html
+
+
+
+
 ```python
 # 연습을 위한 nltk 책 리스트 다운로드
 import nltk
